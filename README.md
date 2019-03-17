@@ -3,7 +3,7 @@ Unfriend inactive users
 
 © JANTER https://pastebin.com/kbsCFyAs
 
-Recode by SBzaim
+Recode by SBzain
 
 ## Install
       $ pkg install php
